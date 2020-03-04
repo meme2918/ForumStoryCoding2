@@ -1,0 +1,11 @@
+{
+  "__comment":"Copy this file to 'configuration.json' in the same directory, and add valid values to the relevant fields below",
+  "database_config": {
+    "user": "USERNAME",
+    "password": "PASSWORD",
+    "host_name": "HOSTNAME",
+    "db": "DBNAME"
+  },
+  "host_name": "localhost",
+  "port_number": 5000
+}
